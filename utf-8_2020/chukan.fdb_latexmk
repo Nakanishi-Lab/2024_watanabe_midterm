@@ -1,12 +1,13 @@
 # Fdb version 4
-["dvipdf"] 1728022073.48026 "chukan.dvi" "chukan.pdf" "chukan" 1728022075.80797 0
-  "chukan.dvi" 1728022073 6764 23d85335dde20d1ee3de22efe05e68b4 "latex"
+["dvipdf"] 1728028142.45369 "chukan.dvi" "chukan.pdf" "chukan" 1728028144.01063 0
+  "chukan.dvi" 1728028142 8492 6e7eacdeb6c087f2d1da47f280f6f905 "latex"
   (generated)
   "chukan.pdf"
   (rewritten before read)
-["latex"] 1728022072.45791 "c:/Users/watanabe_shouta/2024-chukan/utf-8_2020/chukan.tex" "chukan.dvi" "chukan" 1728022075.805 0
-  "Fig/Fig1.eps" 1728002578 76128 14cdca38b941c36c6d207c729b691b89 ""
-  "c:/Users/watanabe_shouta/2024-chukan/utf-8_2020/chukan.tex" 1728022070 5492 4a01249b2334ce2bfd94da8d2db244b4 ""
+["latex"] 1728028140.22862 "c:/Users/watanabe_shouta/2024-chukan/utf-8_2020/chukan.tex" "chukan.dvi" "chukan" 1728028144.00754 0
+  "/Users/watanabe_shouta/2024-chukan/picture/fish.jpg" 1728017954 1913455 d809d5338e01ad681d04ffde5ebd6fb9 ""
+  "/Users/watanabe_shouta/2024-chukan/picture/tentativeschematic.png" 1728015907 182865 f0fc6dfb52592bb9b5f561bfdc11fcd5 ""
+  "c:/Users/watanabe_shouta/2024-chukan/utf-8_2020/chukan.tex" 1728028137 6662 7f74a820c4aa879a36ae4265a411444c ""
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1712805490 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/goth9.tfm" 1712807019 1196 b274fc006918dea9e5263e2117f4bddb ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/min9.tfm" 1712807019 1196 415df3c165ce605a3c248afbbe3c844b ""
@@ -43,8 +44,8 @@
   "c:/texlive/2024/texmf-dist/web2c/texmf.cnf" 1712804287 41663 c82a74d8036de408d74af2c8ae75c7e5 ""
   "c:/texlive/2024/texmf-var/web2c/euptex/platex.fmt" 1712808368 8157869 fda07e08e2e413ddff5a548426ed34e1 ""
   "c:/texlive/2024/texmf.cnf" 1712808154 713 e69b156964470283e0530f5060668171 ""
-  "chukan.aux" 1728022073 701 1fc99ecc6ee25ceb2856886fcff3126b "latex"
-  "chukan.tex" 1728022070 5492 4a01249b2334ce2bfd94da8d2db244b4 ""
+  "chukan.aux" 1728028142 995 4055c56417e08425200dbebb76ee4091 "latex"
+  "chukan.tex" 1728028137 6662 7f74a820c4aa879a36ae4265a411444c ""
   "chukan2020.sty" 1728019349 3878 793211692bc712da2f9b79c725e7ac86 ""
   "twocolumn.sty" 1728002578 230 e0eeb288388b8fdbdf700083bc2805d2 ""
   (generated)

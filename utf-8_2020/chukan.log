@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.141592653-p4.1.1-u1.30-230214-2.6 (utf8.sjis) (TeX Live 2024) (preloaded format=platex 2024.4.11)  4 OCT 2024 15:07
+This is e-upTeX, Version 3.141592653-p4.1.1-u1.30-230214-2.6 (utf8.sjis) (TeX Live 2024) (preloaded format=platex 2024.4.11)  4 OCT 2024 16:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -191,16 +191,18 @@ LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <9> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 44.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <9> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 44.
-File: Fig/Fig1.eps Graphic file (type eps)
-<Fig/Fig1.eps>
+File: /Users/watanabe_shouta/2024-chukan/picture/fish.jpg Graphic file (type bmp)
+</Users/watanabe_shouta/2024-chukan/picture/fish.jpg>
+File: /Users/watanabe_shouta/2024-chukan/picture/tentativeschematic.png Graphic file (type bmp)
+</Users/watanabe_shouta/2024-chukan/picture/tentativeschematic.png>
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <7> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 85.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 99.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <7> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 85.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 99.
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 85.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 99.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 85.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 99.
  [1
 
 
@@ -213,12 +215,12 @@ L3 programming layer <2024-03-14>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 2663 strings out of 474761
- 41567 string characters out of 5761786
- 1931341 words of memory out of 5000000
- 25047 multiletter control sequences out of 15000+600000
+ 2673 strings out of 474761
+ 42287 string characters out of 5761786
+ 1933341 words of memory out of 5000000
+ 25053 multiletter control sequences out of 15000+600000
  564802 words of font info for 64 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 57i,5n,65p,384b,335s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,5n,65p,384b,293s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on chukan.dvi (1 page, 6764 bytes).
+Output written on chukan.dvi (1 page, 8492 bytes).
