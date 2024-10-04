@@ -6,7 +6,7 @@
 %\usepackage[dvi ps]{graphicx} %%画像を読み込む
 
 \usepackage[dvipdfmx]{graphicx} %%画像を読み込む
-\newcommand{\setPicture}[1]{\includegraphics[width=0.8\linewidth]{/Users/watanabe_shouta/2024-chukan/picture/#1}}
+\newcommand{\setPicture}[1]{\includegraphics[width=0.9\linewidth]{/Users/watanabe_shouta/2024-chukan/picture/#1}}
   
 
 \usepackage{subfigure}
@@ -62,11 +62,11 @@ Keywords: Fish-Type Robot, Flexible/Bendable Torso
 完全に，もしくはほとんどの部分で踏襲して複製した模造品のことである.
 駆動方式に飛び移り座屈を用いると魚らしい動きを実現できない懸念があるため，今回は魚らしい動きの実現のためにワイヤ駆動型魚型ロボットをコピー元とした.（図\ref{fig:fish-type}）
 
-\subsection{ロボットの構造}
+\subsection{ロボットの構造・動作}
 コピー元の魚ロボットの構造を図\ref{fig:structure}に示す.ロボットは制御部，駆動部，胴体部の三つで構成され，頭部にあたる制御部にはマイコン，基板，バッテリが，えら部分にあたる駆動部にはプーリ付きの
 サーボモータが，胴体部には弾性体，尾びれが配置される.
+動作としてはサーボモータに取り付けられたプーリが左右に動き，ワイヤが巻き取られることによって，弾性体に取り付けられたリンクが引っ張られ，弾性体をたわませる.それによって体をしならせ、水を書くことで遊泳する.
 
-\newpage
 
 \begin{figure}[t]
    \centering
@@ -83,6 +83,8 @@ Keywords: Fish-Type Robot, Flexible/Bendable Torso
    \caption{ロボットの構造}
    \label{fig:structure}
 \end{figure}
+
+\subsection{デッドコピーの作成}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \vspace*{-2mm}
