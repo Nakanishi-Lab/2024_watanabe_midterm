@@ -1,26 +1,34 @@
 # Fdb version 4
-["dvipdf"] 1728029402.52151 "2024_watanabe_chukan.dvi" "2024_watanabe_chukan.pdf" "2024_watanabe_chukan" 1728029404.17581 0
-  "2024_watanabe_chukan.dvi" 1728029402 10052 0235a2081df574d41af7e90900b11cd8 "latex"
+["dvipdf"] 1728270084.91504 "2024_watanabe_chukan.dvi" "2024_watanabe_chukan.pdf" "2024_watanabe_chukan" 1728270093.78901 0
+  "2024_watanabe_chukan.dvi" 1728270084 9184 a08f2d1c46e79c7e33af1373563411e7 "latex"
   (generated)
   "2024_watanabe_chukan.pdf"
   (rewritten before read)
-["latex"] 1728029400.29575 "c:/Users/watanabe_shouta/2024-chukan/utf-8_2020/2024_watanabe_chukan.tex" "2024_watanabe_chukan.dvi" "2024_watanabe_chukan" 1728029404.17294 0
+["latex"] 1728270082.74861 "c:/Users/watanabe_shouta/2024-chukan/utf-8_2020/2024_watanabe_chukan.tex" "2024_watanabe_chukan.dvi" "2024_watanabe_chukan" 1728270093.78524 0
   "/Users/watanabe_shouta/2024-chukan/picture/fish.jpg" 1728017954 1913455 d809d5338e01ad681d04ffde5ebd6fb9 ""
   "/Users/watanabe_shouta/2024-chukan/picture/tentativeschematic.png" 1728015907 182865 f0fc6dfb52592bb9b5f561bfdc11fcd5 ""
-  "2024_watanabe_chukan.aux" 1728029402 1124 1884b3724cb922371783ec01932b30d9 "latex"
-  "2024_watanabe_chukan.tex" 1728029397 7631 e7827cbbf993de27bfa0d79f6a244724 ""
-  "c:/Users/watanabe_shouta/2024-chukan/utf-8_2020/2024_watanabe_chukan.tex" 1728029397 7631 e7827cbbf993de27bfa0d79f6a244724 ""
+  "2024_watanabe_chukan.aux" 1728270084 1144 6c8be979d640abd7fc445ef44622cd1b "latex"
+  "2024_watanabe_chukan.tex" 1728270073 7100 bf00318a0a7cbf4ba684e3de56b8240c ""
+  "c:/Users/watanabe_shouta/2024-chukan/utf-8_2020/2024_watanabe_chukan.tex" 1728270073 7100 bf00318a0a7cbf4ba684e3de56b8240c ""
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1712805490 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/goth9.tfm" 1712807019 1196 b274fc006918dea9e5263e2117f4bddb ""
+  "c:/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/min6.tfm" 1712807019 1196 ede67ffb8cb4a6a8b9436c82b428664c ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/min9.tfm" 1712807019 1196 415df3c165ce605a3c248afbbe3c844b ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/tgoth9.tfm" 1712807019 856 bed293689e159275e10c27a9927115b7 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin9.tfm" 1712807019 856 b22b8128b44bf8881977f2c74b361f47 ""
+  "c:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1712804370 1004 54797486969f23fa377b128694d548df ""
+  "c:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex9.tfm" 1712804370 996 a18840b13b499c08ac2de96a99eda4bc ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1712804861 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1712804861 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx7.tfm" 1712804861 1336 3125ccb448c1a09074e3aa4a9832f130 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx9.tfm" 1712804861 1328 5442e22a7072966dbaf88ca900acf3f0 ""
+  "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1712804861 1512 f21f83efb36853c0b70002322c1ab3ad ""
+  "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm" 1712804861 1524 d89e2d087a9828407a196f428428ef4a ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1712804861 1288 655e228510b4c2a1abe905c368440826 ""
+  "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr6.tfm" 1712804861 1300 b62933e007d01cfd073f79b963c01526 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr9.tfm" 1712804861 1292 6b21b9c2c7bebb38aa2273f7ca0fb3af ""
+  "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1712804861 1116 933a60c408fc0a863a92debe84b2d294 ""
+  "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm" 1712804861 1116 25a7bf822c58caf309a702ef79f4afbb ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/latex-fonts/lasy6.tfm" 1712806052 520 4889cce2180234b97cad636b6039c722 ""
   "c:/texlive/2024/texmf-dist/tex/generic/ulem/ulem.sty" 1712807829 15682 94f55b803e160cf7fb6e4d77d07cfe1d ""
   "c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsbsy.sty" 1712804372 2222 499d61426192c39efd8f410ee1a52b9c ""
