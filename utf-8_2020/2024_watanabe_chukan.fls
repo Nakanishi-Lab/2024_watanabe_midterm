@@ -31,6 +31,10 @@ INPUT c:/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 INPUT c:/texlive/2024/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
 INPUT c:/texlive/2024/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
 INPUT c:/texlive/2024/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+INPUT c:/texlive/2024/texmf-dist/tex/latex/here/here.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/here/here.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/float/float.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/float/float.sty
 INPUT c:/texlive/2024/texmf-dist/tex/latex/subfigure/subfigure.sty
 INPUT c:/texlive/2024/texmf-dist/tex/latex/subfigure/subfigure.sty
 INPUT c:/texlive/2024/texmf-dist/tex/latex/subfigure/subfigure.cfg
@@ -77,6 +81,10 @@ INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex9.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/min6.tfm
+INPUT /Users/watanabe_shouta/2024-chukan/picture/fish-torso.jpg
+INPUT /Users/watanabe_shouta/2024-chukan/picture/fish-torso.jpg
+INPUT /Users/watanabe_shouta/2024-chukan/picture/fish-torso.jpg
+INPUT extractbb -B cropbox -O /Users/watanabe_shouta/2024-chukan/picture/fish-torso.jpg
 INPUT /Users/watanabe_shouta/2024-chukan/picture/tentativeschematic.png
 INPUT /Users/watanabe_shouta/2024-chukan/picture/tentativeschematic.png
 INPUT /Users/watanabe_shouta/2024-chukan/picture/tentativeschematic.png

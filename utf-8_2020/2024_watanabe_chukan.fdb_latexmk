@@ -1,15 +1,16 @@
 # Fdb version 4
-["dvipdf"] 1728347640.70425 "2024_watanabe_chukan.dvi" "2024_watanabe_chukan.pdf" "2024_watanabe_chukan" 1728347642.13147 0
-  "2024_watanabe_chukan.dvi" 1728347640 9316 20f8f3b491b71e7bf13e885852de530f "latex"
+["dvipdf"] 1728528281.50024 "2024_watanabe_chukan.dvi" "2024_watanabe_chukan.pdf" "2024_watanabe_chukan" 1728528282.9091 0
+  "2024_watanabe_chukan.dvi" 1728528281 8716 eebc8be98172c1eef394af41bd2ef3b6 "latex"
   (generated)
   "2024_watanabe_chukan.pdf"
   (rewritten before read)
-["latex"] 1728347638.41829 "c:/Users/watanabe_shouta/2024-chukan/utf-8_2020/2024_watanabe_chukan.tex" "2024_watanabe_chukan.dvi" "2024_watanabe_chukan" 1728347642.12804 0
+["latex"] 1728528278.76265 "c:/Users/watanabe_shouta/2024-chukan/utf-8_2020/2024_watanabe_chukan.tex" "2024_watanabe_chukan.dvi" "2024_watanabe_chukan" 1728528282.90514 0
   "/Users/watanabe_shouta/2024-chukan/picture/fish-copy.jpg" 1728347356 718884 5e4ab039a0e72a4aa5be5a8dc017eddb ""
+  "/Users/watanabe_shouta/2024-chukan/picture/fish-torso.jpg" 1728524916 1451564 d6f2bb699ec6d10f2f8dc881bfba96d9 ""
   "/Users/watanabe_shouta/2024-chukan/picture/tentativeschematic.png" 1728015907 182865 f0fc6dfb52592bb9b5f561bfdc11fcd5 ""
-  "2024_watanabe_chukan.aux" 1728347640 1146 292b6f49482d0e92efc212195780c3d9 "latex"
-  "2024_watanabe_chukan.tex" 1728347635 7145 765a658b89eb8ea85893460657b1b3e5 ""
-  "c:/Users/watanabe_shouta/2024-chukan/utf-8_2020/2024_watanabe_chukan.tex" 1728347635 7145 765a658b89eb8ea85893460657b1b3e5 ""
+  "2024_watanabe_chukan.aux" 1728528281 1048 35b28395310d4da512314501cff62be9 "latex"
+  "2024_watanabe_chukan.tex" 1728528275 6989 671f5013f1fc8e04f34038739e54a6ad ""
+  "c:/Users/watanabe_shouta/2024-chukan/utf-8_2020/2024_watanabe_chukan.tex" 1728528275 6989 671f5013f1fc8e04f34038739e54a6ad ""
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1712805490 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/goth9.tfm" 1712807019 1196 b274fc006918dea9e5263e2117f4bddb ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/min6.tfm" 1712807019 1196 ede67ffb8cb4a6a8b9436c82b428664c ""
@@ -36,12 +37,14 @@
   "c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsmath.sty" 1712804372 88371 d84032c0f422c3d1e282266c01bef237 ""
   "c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsopn.sty" 1712804372 4474 b811654f4bf125f11506d13d13647efb ""
   "c:/texlive/2024/texmf-dist/tex/latex/amsmath/amstext.sty" 1712804372 2444 0d0c1ee65478277e8015d65b86983da2 ""
+  "c:/texlive/2024/texmf-dist/tex/latex/float/float.sty" 1712805467 6749 16d2656a1984957e674b149555f1ea1d ""
   "c:/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg" 1712805641 1224 978390e9c2234eab29404bc21b268d1e ""
   "c:/texlive/2024/texmf-dist/tex/latex/graphics-def/dvipdfmx.def" 1712805642 12296 04d6453afafd99986deba3629756d9ec ""
   "c:/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty" 1712805640 18387 8f900a490197ebaf93c02ae9476d4b09 ""
   "c:/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty" 1712805640 8010 a8d949cbdbc5c983593827c9eec252e1 ""
   "c:/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty" 1712805640 2671 7e67d78d9b88c845599a85b2d41f2e39 ""
   "c:/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty" 1712805640 4023 293ea1c16429fc0c4cf605f4da1791a9 ""
+  "c:/texlive/2024/texmf-dist/tex/latex/here/here.sty" 1712805726 439 d908692e0f19922874ccfe2bf35addc7 ""
   "c:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-dvips.def" 1712806013 35588 bc4974767c4b56a17fdafbe5814b6b55 ""
   "c:/texlive/2024/texmf-dist/tex/latex/multirow/multirow.sty" 1712806504 6149 2398eec4faa1ee24ff761581e580ecf1 ""
   "c:/texlive/2024/texmf-dist/tex/latex/pxufont/pxufont-ruby.sty" 1712807039 566 4528a5889261c013205dc423cabfd4f2 ""
