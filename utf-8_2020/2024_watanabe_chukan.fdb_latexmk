@@ -1,16 +1,16 @@
 # Fdb version 4
-["dvipdf"] 1728540828.18622 "2024_watanabe_chukan.dvi" "2024_watanabe_chukan.pdf" "2024_watanabe_chukan" 1728540829.60746 0
-  "2024_watanabe_chukan.dvi" 1728540828 8680 b829523ee8db8a1aa7a95b94e3bd2585 "latex"
+["dvipdf"] 1728549015.07122 "2024_watanabe_chukan.dvi" "2024_watanabe_chukan.pdf" "2024_watanabe_chukan" 1728549016.47911 0
+  "2024_watanabe_chukan.dvi" 1728549015 8728 acef8511adcc865d8a14bbaeafcdd8ca "latex"
   (generated)
   "2024_watanabe_chukan.pdf"
   (rewritten before read)
-["latex"] 1728540825.31514 "c:/Users/watanabe_shouta/2024-chukan/utf-8_2020/2024_watanabe_chukan.tex" "2024_watanabe_chukan.dvi" "2024_watanabe_chukan" 1728540829.60363 0
+["latex"] 1728549012.36199 "c:/Users/watanabe_shouta/2024-chukan/utf-8_2020/2024_watanabe_chukan.tex" "2024_watanabe_chukan.dvi" "2024_watanabe_chukan" 1728549016.47549 0
   "/Users/watanabe_shouta/2024-chukan/picture/fish-copy.jpg" 1728347356 718884 5e4ab039a0e72a4aa5be5a8dc017eddb ""
   "/Users/watanabe_shouta/2024-chukan/picture/fish-torso.jpg" 1728524916 1451564 d6f2bb699ec6d10f2f8dc881bfba96d9 ""
   "/Users/watanabe_shouta/2024-chukan/picture/tentativeschematic.png" 1728015907 182865 f0fc6dfb52592bb9b5f561bfdc11fcd5 ""
-  "2024_watanabe_chukan.aux" 1728540828 1048 35b28395310d4da512314501cff62be9 "latex"
-  "2024_watanabe_chukan.tex" 1728539818 6997 c7e7bfbff3df52fe771998047be95dbc ""
-  "c:/Users/watanabe_shouta/2024-chukan/utf-8_2020/2024_watanabe_chukan.tex" 1728539818 6997 c7e7bfbff3df52fe771998047be95dbc ""
+  "2024_watanabe_chukan.aux" 1728549015 1100 d6185dadebbf53e1af1c05c684a2af88 "latex"
+  "2024_watanabe_chukan.tex" 1728548297 7308 61530c998769b37d7fc076adfab0eb9e ""
+  "c:/Users/watanabe_shouta/2024-chukan/utf-8_2020/2024_watanabe_chukan.tex" 1728548297 7308 61530c998769b37d7fc076adfab0eb9e ""
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1712805490 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/goth9.tfm" 1712807019 1196 b274fc006918dea9e5263e2117f4bddb ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/min6.tfm" 1712807019 1196 ede67ffb8cb4a6a8b9436c82b428664c ""
@@ -57,7 +57,7 @@
   "c:/texlive/2024/texmf-dist/web2c/texmf.cnf" 1712804287 41663 c82a74d8036de408d74af2c8ae75c7e5 ""
   "c:/texlive/2024/texmf-var/web2c/euptex/platex.fmt" 1712808368 8157869 fda07e08e2e413ddff5a548426ed34e1 ""
   "c:/texlive/2024/texmf.cnf" 1712808154 713 e69b156964470283e0530f5060668171 ""
-  "chukan2020.sty" 1728019349 3878 793211692bc712da2f9b79c725e7ac86 ""
+  "chukan2020.sty" 1728547083 3878 793211692bc712da2f9b79c725e7ac86 ""
   "twocolumn.sty" 1728002578 230 e0eeb288388b8fdbdf700083bc2805d2 ""
   (generated)
   "2024_watanabe_chukan.aux"
