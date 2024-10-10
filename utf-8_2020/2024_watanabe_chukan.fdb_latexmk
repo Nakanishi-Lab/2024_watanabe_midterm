@@ -1,16 +1,16 @@
 # Fdb version 4
-["dvipdf"] 1728528281.50024 "2024_watanabe_chukan.dvi" "2024_watanabe_chukan.pdf" "2024_watanabe_chukan" 1728528282.9091 0
-  "2024_watanabe_chukan.dvi" 1728528281 8716 eebc8be98172c1eef394af41bd2ef3b6 "latex"
+["dvipdf"] 1728528591.53077 "2024_watanabe_chukan.dvi" "2024_watanabe_chukan.pdf" "2024_watanabe_chukan" 1728528592.94677 0
+  "2024_watanabe_chukan.dvi" 1728528591 8680 21bf2dd8d013ec1b2193e7cec054a1e6 "latex"
   (generated)
   "2024_watanabe_chukan.pdf"
   (rewritten before read)
-["latex"] 1728528278.76265 "c:/Users/watanabe_shouta/2024-chukan/utf-8_2020/2024_watanabe_chukan.tex" "2024_watanabe_chukan.dvi" "2024_watanabe_chukan" 1728528282.90514 0
+["latex"] 1728528588.77219 "c:/Users/watanabe_shouta/2024-chukan/utf-8_2020/2024_watanabe_chukan.tex" "2024_watanabe_chukan.dvi" "2024_watanabe_chukan" 1728528592.94319 0
   "/Users/watanabe_shouta/2024-chukan/picture/fish-copy.jpg" 1728347356 718884 5e4ab039a0e72a4aa5be5a8dc017eddb ""
   "/Users/watanabe_shouta/2024-chukan/picture/fish-torso.jpg" 1728524916 1451564 d6f2bb699ec6d10f2f8dc881bfba96d9 ""
   "/Users/watanabe_shouta/2024-chukan/picture/tentativeschematic.png" 1728015907 182865 f0fc6dfb52592bb9b5f561bfdc11fcd5 ""
-  "2024_watanabe_chukan.aux" 1728528281 1048 35b28395310d4da512314501cff62be9 "latex"
-  "2024_watanabe_chukan.tex" 1728528275 6989 671f5013f1fc8e04f34038739e54a6ad ""
-  "c:/Users/watanabe_shouta/2024-chukan/utf-8_2020/2024_watanabe_chukan.tex" 1728528275 6989 671f5013f1fc8e04f34038739e54a6ad ""
+  "2024_watanabe_chukan.aux" 1728528591 1048 35b28395310d4da512314501cff62be9 "latex"
+  "2024_watanabe_chukan.tex" 1728528585 6998 b4f3aa828da2c10eb7b9e0579cee1304 ""
+  "c:/Users/watanabe_shouta/2024-chukan/utf-8_2020/2024_watanabe_chukan.tex" 1728528585 6998 b4f3aa828da2c10eb7b9e0579cee1304 ""
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1712805490 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/goth9.tfm" 1712807019 1196 b274fc006918dea9e5263e2117f4bddb ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/min6.tfm" 1712807019 1196 ede67ffb8cb4a6a8b9436c82b428664c ""
